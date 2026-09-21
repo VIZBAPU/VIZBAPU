@@ -35,9 +35,9 @@ Full-Stack Software Engineer with enterprise experience in microservice moderniz
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIZBAPU&show_icons=true&theme=tokyonight&count_private=true" alt="Vishwadeep's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIZBAPU&layout=compact&theme=tokyonight&hide=pug,html" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VIZBAPU&show_icons=true&theme=tokyonight&count_private=true" alt="Vishwadeep's GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VIZBAPU&layout=compact&theme=tokyonight&hide=pug,html" alt="Top Languages" />
 </p>
 
 ---
