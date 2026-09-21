@@ -36,4 +36,3 @@ Full-Stack Software Engineer with enterprise experience in microservice moderniz
 
 * **LinkedIn:** [linkedin.com/in/vishwadeepsinh-vaghela](https://www.linkedin.com/in/vishwadeepsinh-vaghela/)
 * **Email:** [vishwadeepvaghela25@gmail.com](mailto:vishwadeepvaghela25@gmail.com)
-* **Portfolio:** [lcsf2427.github.io](https://lcsf2427.github.io/)
